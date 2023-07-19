@@ -2,7 +2,7 @@
 import { Collection } from './modules/collection.js';
 import { navFeature } from './modules/navbar.js';
 import { dateTime } from './modules/luxon..js';
-import {  titleInput,  authorInput,  form,  booksList,} from './modules/elements.js';
+import {  titleInput, authorInput, form, booksList, } from './modules/elements.js';
 
 // Initialize a new Collection instance
 const collection = new Collection();
@@ -21,7 +21,7 @@ form.addEventListener('submit', (event) => {
 
 // Event listener for page load - bind Collection to maintain context
 document.addEventListener(
-  'DOMContentLoaded',  collection.loadBooks.bind(collection),
+  'DOMContentLoaded', collection.loadBooks.bind(collection),
 );
 
 // Event listener for book removal
