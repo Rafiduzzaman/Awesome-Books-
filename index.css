@@ -11,6 +11,13 @@ a:hover {
   cursor: pointer;
 }
 
+.currentTime {
+  display: flex;
+  justify-content: end;
+  margin-right: 2rem;
+  font-weight: 700;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;

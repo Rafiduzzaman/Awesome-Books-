@@ -1,7 +1,15 @@
-import { DateTime } from 'luxon';
+// Import necessary elements
+import { DateTime } from '../node_modules/luxon/src/luxon.js';
 
-export function displayCurrentDate() {
-  const currentDate = DateTime.now().toLocaleString(DateTime.DATE_FULL);
-  const dateElement = document.getElementById('currentDate');
-  dateElement.textContent = currentDate;
-}
+// Function to display the current date and time
+export const dateTime = setInterval(() => {
+  // Get the current time of the System
+  const currentTime = DateTime.now().setZone('system');
+
+  // Format the time
+  const formatedTime = currentTime.toFormat("MMMM d yyyy',' hh:mm:ss a");
+
+  // Display the time in the 'currentTime' element
+  const elementTime = document.querySelector('.currentTime');
+  elementTime.innerText = formatedTime;
+}, 1000);
