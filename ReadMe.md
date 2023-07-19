@@ -134,7 +134,7 @@ Let me know if u liked this portfolio project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Cindy Shin as the original design was created by her. 
+I would like to the collaborators for their contribution.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
