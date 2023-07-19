@@ -28,11 +28,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [GamerZportal] <a name="about-project"></a>
+# 📖 [Awesome_Books] <a name="about-project"></a>
 
 Awesome Books
 
-**[GamerZportal]** is a website fully focused on javascript to implement ES6 modules and mild html and css
+**[Awesome_Books]** is a website fully focused on javascript to implement ES6 modules and mild html and css
 
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JS</a>
