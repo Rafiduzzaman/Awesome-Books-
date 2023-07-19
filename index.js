@@ -1,5 +1,5 @@
 // Import necessary elements and modules
-import { Collection } from './modules/collection.js';
+import { Collection } from './modules/Collection.js';
 import { navFeature } from './modules/navbar.js';
 import { dateTime } from './modules/luxon..js';
 import {
