@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>GamerZportal</b></h3>
+  <h3><b>Awesome Books</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,27 +30,24 @@
 
 # 📖 [GamerZportal] <a name="about-project"></a>
 
-GamerZportal
+Awesome Books
 
-**[GamerZportal]** is a dynamic and visually appealing webpage that serves as an interactive showcase of my skills, experiences, and projects. Built using HTML and CSS, this portfolio website aims to present my professional profile in an engaging and professional manner.The link  to my project is 
+**[GamerZportal]** is a website fully focused on javascript to implement ES6 modules and mild html and css
 
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JS</a>
 
 ### Tech Stack <a name="tech-stack">N/A</a>
 
-HTML,CSS and JS is used
+HTML,CSS and JS is used along with ES6 modules
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-A simple webpage with Home and About page. And there is an online version of this webpage.
+An interactive webpage made with javascript.
 
-- **Button_animation**
-- **links**
-- **Design**
-- **Contact_Form**
+- **User_Interface**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,8 +60,7 @@ A simple webpage with Home and About page. And there is an online version of thi
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-A new developer can use the template from this project
-To get a local copy up and running, follow these steps.
+A new understand how to use modules for ES6 in this project.
 
 ### Prerequisites
 
@@ -79,7 +75,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  git clone git@github.com:Rdzaman20000/GamersPortal.git
+  git clone git@github.com:Rdzaman20000/Awesome-Books-.git
 
 ### Install
 
@@ -114,7 +110,6 @@ Right click the html file and select the option "Open with live server";
 
 I will add  database connection
 
-- [ ] **User_interface**
 - [ ] **Database_connection**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,8 +119,6 @@ I will add  database connection
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Rdzaman20000/GamersPortal/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +143,6 @@ I would like to thank Cindy Shin as the original design was created by her.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](/LICENSE) licensed.
+This project is [MIT](/License.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
