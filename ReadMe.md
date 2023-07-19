@@ -53,7 +53,7 @@ An interactive webpage made with javascript.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://rdzaman20000.github.io/)
+- [Live Demo](https://rdzaman20000.github.io/Awesome-Books-/)
 
 
 <!-- GETTING STARTED -->
