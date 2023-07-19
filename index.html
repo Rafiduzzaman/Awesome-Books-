@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS Style Sheet -->
+    <link rel="stylesheet" href="index.css">
+    <!-- Document Title -->
+    <title>Awesome Books</title>
+</head>
+
+<body>
+    <!-- Header section with navigation -->
+    <header>
+        <nav class="navbar">
+            <h2 class="nav-title">Awesome Books</h2>
+            <ul class="nav-list">
+                <!-- Navigation -->
+                <li><a type="button" id="btn-list">List</a></li>
+                <div class="verticalLine"></div>
+                <li><a type="button" id="btn-add">Add new</a></li>
+                <div class="verticalLine"></div>
+                <li><a type="button" id="btn-contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Main section -->
+    <main>
+        <!-- Display the current time -->
+        <div class="currentTime"></div>
+        <!-- Section for the book list -->
+        <section class="books-container display">
+            <h1>All Awesome books</h1>
+            <table id="books">
+                <tbody id="booksList">
+                </tbody>
+            </table>
+        </section>
+        <!-- Section for the add book form -->
+        <section class="form-container">
+            <h2>Add a new book</h2>
+            <form id="form">
+                <div>
+                    <input type="text" id="title" placeholder="Title">
+                </div>
+                <div>
+                    <input type="text" id="author" placeholder="Author">
+                </div>
+                <div>
+                    <button type="submit" id="add-btn">Add</button>
+                </div>
+            </form>
+        </section>
+        <!-- Section for the contact information -->
+        <section class="contact">
+            <h2 class="contact-title">Contact Information</h2>
+            <p class="contact-paragraph">Do you have any questions or you just want to say "Hello"? <br>
+                You can reach out to us!
+            </p>
+            <ul class="contact-list">
+                <li>Our E-mail: mail@mail.com</li>
+                <li>Our Phone number: 0043586534422</li>
+                <li>Our address: Streename 22, 84503, City, Country</li>
+            </ul>
+        </section>
+    </main>
+    <!-- Footer section -->
+    <footer>
+        <p>Copyright&copy; Awesome Books 2023</p>
+    </footer>
+    <script type="module" src="index.js"></script>
+</body>
+
+</html>
